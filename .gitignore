@@ -5,3 +5,7 @@ logs/
 src/.DS_Store
 .DS_Store
 src/temp.ipynb
+src/00_test.ipynb
+src/01_claim_data_cleaning_old.ipynb
+src/01_claim_response_cleaning_old.ipynb
+src/01_patient_data_cleaning_mod.ipynb
