@@ -9,3 +9,4 @@ src/00_test.ipynb
 src/01_claim_data_cleaning_old.ipynb
 src/01_claim_response_cleaning_old.ipynb
 src/01_patient_data_cleaning_mod.ipynb
+src/01_EOB_data_cleaning.ipynb
