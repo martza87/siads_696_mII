@@ -4,8 +4,7 @@ models/
 logs/
 src/.DS_Store
 .DS_Store
-src/temp.ipynb
-src/00_test.ipynb
-src/01_claim_data_cleaning_old.ipynb
-src/01_claim_response_cleaning_old.ipynb
-src/01_EOB_data_cleaning.ipynb
+src/X_temp.ipynb
+src/X_01_claim_data_cleaning_old.ipynb
+src/X_01_claim_response_cleaning_old.ipynb
+src/X_01_EOB_data_cleaning.ipynb
