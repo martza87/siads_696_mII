@@ -4,8 +4,4 @@ models/
 logs/
 src/.DS_Store
 .DS_Store
-src/X_temp.ipynb
-src/X_01_claim_data_cleaning_old.ipynb
-src/X_01_claim_response_cleaning_old.ipynb
-src/X_01_EOB_data_cleaning.ipynb
-src/feature ideas.txt
+src/02_merge_with_secondary_datasets
