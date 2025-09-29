@@ -4,3 +4,4 @@ models/
 logs/
 src/.DS_Store
 .DS_Store
+src/02_merge_with_secondary_datasets.ipynb
