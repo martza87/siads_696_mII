@@ -50,7 +50,7 @@ Data comes from the [Beneficiary Claims Data API](https://bcda.cms.gov/bcda-data
 
 ## :handshake: Contact
 
-Author: Adrienne Martz, Martin Ho, Prathik Addepalli
+Author: Adrienne Martz, Martin Ho
 
 Project Link: [Github](https://github.com/martza87/siads_696_mII)
 
