@@ -4,7 +4,7 @@
   <h1>Predicting Health Care Costs of Grouped ICD-10 Procedures in Medicare Claims Data</h1>
   
   <p>
-    As part of the MADS programe, for Milestone II project. Exploring the use of supervised learning to estimate costs for patient by predicting what bundle of procedures they would most likely use to treat their conditions.
+    Exploring the use of unsupervised learning to bundle procedures and supervised learning to estimate costs for patient by predicting what bundle of procedures they would most likely use to treat their conditions.
   </p>
 
 </div>
