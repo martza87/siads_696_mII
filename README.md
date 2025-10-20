@@ -49,6 +49,7 @@ Data comes from the [Beneficiary Claims Data API](https://bcda.cms.gov/bcda-data
 - **ClaimResponse** - Stores details about the adjudication status and processing results for a claim, predetermination, or preauthorization.
 
 This is a link to our Google project folder where the raw ndjson files are located:
+
 https://drive.google.com/drive/folders/1lsdKFhpVMF3YG3w7OsNe6j8OGwaVDbSv?usp=sharing
 
 A copy of our final report is also in the folder.
