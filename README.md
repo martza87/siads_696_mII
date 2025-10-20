@@ -1,7 +1,7 @@
 <div align="center">
 
   <img src="assets/header.jpg" alt="logo" width="300" height="auto" />
-  <h1>Predicting Health Care Costs of Grouped ICD-10 Procedures in Medicare Claims Data</h1>
+  <h1>Predicting Health Care Costs of Grouped CPT Procedure Codes in Medicare Claims Data</h1>
   
   <p>
     Exploring the use of unsupervised learning to bundle procedures and supervised learning to estimate costs for patient by predicting what bundle of procedures they would most likely use to treat their conditions.
