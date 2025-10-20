@@ -48,6 +48,11 @@ Data comes from the [Beneficiary Claims Data API](https://bcda.cms.gov/bcda-data
 - **Claim** - Stores financial and clinical details on professional and institutional claims. This is typically used for treatment payment planning and reimbursement.
 - **ClaimResponse** - Stores details about the adjudication status and processing results for a claim, predetermination, or preauthorization.
 
+This is a link to our Google project folder where the raw ndjson files are located:
+https://drive.google.com/drive/folders/1lsdKFhpVMF3YG3w7OsNe6j8OGwaVDbSv?usp=sharing
+
+A copy of our final report is also in the folder.
+
 ## :handshake: Contact
 
 Author: Adrienne Martz, Martin Ho
